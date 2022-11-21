@@ -20,7 +20,7 @@ CUPRINS
  
 ![img.png](img.png)
 
-Imaginea 1. Log in system pentru Basic User
+Log in system pentru Basic User
 
 - Administratorul poate:
 •	importa setul initial de produse din fisierul .csv
@@ -110,7 +110,7 @@ trei clase au fost folosite pentru a putea implementa Composite Design Pattern. 
 
 ![img_1.png](img_1.png)
 
-Imaginea 7. Exemplu de functie din clasa CompositeProduct
+Imaginea 1. Exemplu de functie din clasa CompositeProduct
 
 •	Clasa Order
 Cuprinde detaliile despre o comanda, incluzand metoda hashCode() care este suprascrisa pentru a putea

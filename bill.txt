@@ -1,0 +1,44 @@
+ Bill
+Order id: 1
+ Client id: 1
+ Price: 32
+ Date: Mon Jul 25 06:38:09 EEST 2022
+ Product: 
+Cilantro-Tomato Salsa 
+ Bill 
+Order id: 2
+ Client id: 1
+ Price: 95
+ Date: Mon Jul 25 10:53:50 EEST 2022
+ Product: 
+Quick & Spicy Asian Pickles 
+The Original Three-Ingredient Rub 
+ Bill 
+Order id: 3
+ Client id: 1
+ Price: 157
+ Date: Mon Jul 25 11:07:49 EEST 2022
+ Product: 
+Fresh Corn Tortillas 
+Shrimp Sates with Spiced Pistachio Chutney 
+ Bill 
+Order id: 4
+ Client id: 1
+ Price: 62
+ Date: Mon Jul 25 11:08:28 EEST 2022
+ Product: 
+Red Pepper Sauce 
+ Bill 
+Order id: 5
+ Client id: 1
+ Price: 62
+ Date: Mon Jul 25 11:08:30 EEST 2022
+ Product: 
+Red Pepper Sauce 
+ Bill 
+Order id: 6
+ Client id: 1
+ Price: 62
+ Date: Mon Jul 25 11:08:31 EEST 2022
+ Product: 
+Red Pepper Sauce 

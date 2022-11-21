@@ -1,0 +1,21 @@
+
+ Report 1 
+Order's id: 7 Client's id: 1
+Order's id: 1 Client's id: 1
+Order's id: 4 Client's id: 1
+Order's id: 2 Client's id: 1
+Order's id: 5 Client's id: 1
+Order's id: 3 Client's id: 1
+Order's id: 8 Client's id: 1
+Order's id: 0 Client's id: 1
+Order's id: 6 Client's id: 1
+
+ Report 1 
+Order's id: 0 Client's id: 1
+Order's id: 2 Client's id: 1
+Order's id: 1 Client's id: 1
+
+ Report 1 
+
+ Report 1 
+Order's id: 2 Client's id: 1
